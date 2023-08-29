@@ -12,5 +12,4 @@ for i in Arr:
     if str==i:
         n=Arr.index(i)
 for j in range(0,5):
-    print (arr1[n][j])
-
+    print (arr1[j][n])
